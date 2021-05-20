@@ -1,0 +1,25 @@
+
+Syllabus:
+  ✔ Create an application that has different users @done(21-05-18 16:39)
+  ✔ Talk about different type of defigning the user @done(21-05-18 16:39)
+  ✔ Talk about users with different values @done(21-05-18 16:39)
+  ✔ Talk about different type of calling a user @done(21-05-18 16:39)
+  ✔ Talk about encapsulating a user phone number @done(21-05-18 16:39)
+
+  ✔ What is OOP @done(21-05-18 16:39)
+  ✔ What are classess @done(21-05-18 16:39)
+  ✔ Docstring @done(21-05-18 16:41)
+  ✔ What are objects @done(21-05-18 16:39)
+  ✔ Check type of objects @done(21-05-18 16:39)
+  ✔ What are attributes @done(21-05-18 16:41)
+  ✔ What are methods @done(21-05-18 16:56)
+  ✔ What are class attributes @done(21-05-18 17:16)
+  ✔ __init__ method @done(21-05-18 17:09)
+  ✔ What is self @done(21-05-18 16:56)
+  ✔ __str__ @done(21-05-18 17:09)
+  ☐ __len__
+
+Practices:
+  ☐ Write about 4 aspects in OOP programming and theire usage
+  ☐ Explain the zoo application
+  ☐ Explain the operator overloading for our birds

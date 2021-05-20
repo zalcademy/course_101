@@ -1,0 +1,75 @@
+
+Todo:
+  ✔ Greeting @done(21-05-15 16:14)
+  ✔ About teacher @done(21-05-15 16:14)
+  ✔ About course @done(21-05-15 16:14)
+  ✔ Slack @done(21-05-15 16:14)
+  ✔ About projects @done(21-05-15 16:14)
+  ✔ Handling problems @done(21-05-15 16:14)
+
+  ✔ What is python @done(21-05-15 16:27)
+  ✔ Installing python and vscode @done(21-05-15 16:27)
+  ✔ Checking python version @done(21-05-15 16:27)
+  ✔ Hello World @done(21-05-15 16:27)
+  ✔ Input statement @done(21-05-15 16:27)
+  ✔ Comments @done(21-05-15 16:27)
+
+  ✔ Variabls @done(21-05-15 17:12)
+  ✔ DataTypes @done(21-05-15 17:12)
+  ✔ String @done(21-05-15 17:12)
+  ✔ Numbers @done(21-05-15 17:12)
+  ✔ Boolean @done(21-05-15 17:12)
+  ✔ List (append, remove, count, in operator, sort, extend, len) @done(21-05-15 17:12)
+  ✔ Tupe (count, in) @done(21-05-15 17:12)
+  ✔ Set (add, in) @done(21-05-15 17:12)
+  ✔ Dict () @done(21-05-15 17:12)
+  ✔ Hash Table @done(21-05-15 17:12)
+  ✔ Type method @done(21-05-15 17:12)
+  ✔ Converting values @done(21-05-15 17:12)
+
+  ✔ What are operators @done(21-05-15 17:24)
+  ✔ Assignments @done(21-05-15 17:24)
+  ✔ Arithmetics @done(21-05-15 17:24)
+  ✔ Logical (<, >, ==, not, and, or) @done(21-05-15 17:24)
+
+  ✔ What is a conditional statement @done(21-05-15 17:32)
+  ✔ If @done(21-05-15 17:32)
+  ✔ Else @done(21-05-15 17:32)
+  ✔ Elif @done(21-05-15 17:32)
+
+  ✔ What are loops @done(21-05-15 17:44)
+  ✔ While @done(21-05-15 17:44)
+  ✔ For @done(21-05-15 17:44)
+  ✔ Range @done(21-05-15 17:44)
+  ✔ Break @done(21-05-15 17:44)
+  ✔ Continue @done(21-05-15 17:44)
+
+  ✔ What are functions @done(21-05-15 17:53)
+  ✔ Defigning a function @done(21-05-15 17:53)
+  ✔ Calling a function @done(21-05-15 17:53)
+  ✔ Returning data from function @done(21-05-15 17:53)
+
+  ✔ What are modules @done(21-05-15 18:05)
+  ✔ Python package manager @done(21-05-15 18:05)
+  ✔ Creating new modules @done(21-05-15 18:05)
+  ✔ __name__ @done(21-05-15 18:05)
+
+  ✔ Date and time in prorgamming @done(21-05-15 18:12)
+  ✔ DateTime @done(21-05-15 18:12)
+  ✔ Time @done(21-05-15 18:12)
+  ✔ Sleep @done(21-05-15 18:12)
+
+
+Practices: 
+  ☐ Read this link: https://docs.python.org/3/tutorial/datastructures.html
+  ☐ Read this link: https://www.w3schools.com/python/python_operators.asp
+  ☐ Read this link: https://realpython.com/python-conditional-statements/
+  ☐ Read this link: https://www.learnpython.org/en/Loops
+  ☐ Read this link: https://www.tutorialspoint.com/python/python_functions.htm
+  ☐ Read this link: https://docs.python.org/3/tutorial/modules.html
+
+  ☐ Class reservation code
+    ☐ Shows menu options
+    ☐ Enter 1 to see class plan
+    ☐ Enter 2 to reserve a class (This option should show the free classess to user, when user enters a class ID and his/her name, the class should be updated)
+    ☐ Enter 3 to free a class (This option take class ID)
