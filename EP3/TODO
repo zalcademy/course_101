@@ -1,0 +1,27 @@
+
+Todo:
+  ✔ What is a server @done(21-05-22 16:42)
+  ✔ What is a client @done(21-05-22 16:42)
+  ✔ How we can see a site that is running on a server @done(21-05-22 16:42)
+  ✔ Inspect a website @done(21-05-22 16:48)
+  ✔ What is a URL @done(21-05-22 16:55)
+  ✔ Introduce requests @done(21-05-22 17:01)
+  ✔ Different parts of a URL @done(21-05-22 17:01)
+  ✔ Get zalcademy.ir and show status and text @done(21-05-22 17:01)
+  ✔ GET vs POST @done(21-05-22 17:24)
+  ✔ What is resst? @done(21-05-22 17:24)
+  ✔ Go to httpbin.org @done(21-05-22 17:24)
+  ✔ Explain all of the verbs @done(21-05-22 17:25)
+  ✔ How does httpbin.org works? @done(21-05-22 17:25)
+  ✔ HTML response vs Json response @done(21-05-22 17:29)
+  ✔ Call a get request @done(21-05-22 17:29)
+  ✔ Call a post request @done(21-05-22 17:29)
+  ✔ Body parameteres vs Form parameters @done(21-05-22 17:30)
+  ✔ Creating our notifier app @done(21-05-22 17:52)
+  ✔ Creat a dummy fail option @done(21-05-22 17:52)
+  ✔ Send daata to slack every time @done(21-05-22 17:52)
+
+Practices:
+  ☐ Read about other REST verbs
+  ☐ Call all of the verbs from httpbin.org
+  ☐ Refactor our previous Zoo application, Add a method called health check
